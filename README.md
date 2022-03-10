@@ -18,5 +18,9 @@
     
   </p>
 </div>
-
+<div align="center">
+  <a href="https://www.perseusjewelery.com">
+    <img  src="https://user-images.githubusercontent.com/76784461/157744805-4a4c231d-c4a9-4c48-a870-2ac84ddc1204.gif">
+  </a>
+</div>
 
