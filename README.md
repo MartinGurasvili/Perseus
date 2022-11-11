@@ -9,10 +9,10 @@
 
   <p align="center">
     <br>
-    This is a template for a e-commerce site with PayPal integration
+    This is a template for a responsive e-commerce site with PayPal integration
     <br />
     <br>
-    <a href="https://www.perseusjewelery.com"><h3>Visit Website</h3>
+    <a href="https://perseusjewllery.000webhostapp.com/index.html"><strong>Visit Website</strong>
     <br />
 
     
